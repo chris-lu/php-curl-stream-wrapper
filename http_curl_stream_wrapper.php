@@ -31,7 +31,7 @@ class HTTPCurlStream {
 	private $opened_path;
 	private $buffer;
 	private $pos;
-  public $context;
+	public $context;
 
 	/**
 	 * Open the stream 
