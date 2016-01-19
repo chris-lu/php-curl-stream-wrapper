@@ -1,0 +1,1 @@
+A wrapper used to bypass PHP configuration "allow\_url\_fopen" if curl is installed
